@@ -1,9 +1,9 @@
 # cura-lulzbot-dark
 A dark theme for Cura LulzBot Edition
 
-##INSTALL
+## INSTALL
 
-###Debian
+### Debian
 Clone repo, then in the root directory, make install_debian.sh executable:
 ```
 chmod +x install_debian.sh

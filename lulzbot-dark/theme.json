@@ -85,7 +85,7 @@
         "text_subtext": [255, 255, 255, 172],
         "text_emphasis": [255, 255, 255, 255],
         "text_green": [193, 216, 47, 255],
-        "text_dark_green": [0, 0, 0, 255],
+        "text_dark_green": [155, 174, 17, 255],
         "text_scene": [255, 255, 255, 162],
         "text_scene_hover": [255, 255, 255, 204],
 
@@ -325,7 +325,8 @@
         "layerview_support_interface": [64, 192, 255, 255],
         "layerview_nozzle": [181, 166, 66, 120],
 
-        "info_button": [127, 127, 127, 255]
+        "info_button": [127, 127, 127, 255],
+	"job_specs_background": [39, 44, 48, 128]
     },
 
     "sizes": {
